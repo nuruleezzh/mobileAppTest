@@ -1,5 +1,5 @@
-Author: Nurul Izzah Binti Hazemi
-Date:   Fri May 27 
+public class ContactModel {
+  String name,number;
 
 public String getName() {
   return name;
